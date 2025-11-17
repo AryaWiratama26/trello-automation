@@ -1,4 +1,4 @@
-# Web Automation Selenium
+# Trello Automation Selenium
 
 This project was created for learning automation using `selenium`. I've also included some methods that u can use.
 
